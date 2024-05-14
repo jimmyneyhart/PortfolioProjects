@@ -1,6 +1,6 @@
 <html>
 <body data-gr-ext-installed="" data-new-gr-c-s-check-loaded="14.1172.0" data-new-gr-c-s-loaded="14.1172.0">
-<h2>Porfolio Projects</h2>
+<h2>Jimmy's Projects</h2>
 
 <p>Hi, I&#39;m Jimmy Neyhart.&nbsp; This is a repository of projects that highlight a sample of my capabilities.&nbsp;</p>
 
